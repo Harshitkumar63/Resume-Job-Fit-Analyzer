@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+
+# Data/uploads
+data/uploads/
+data/sample_resumes/*.pdf
+data/sample_resumes/*.docx
+
+# ML model caches
+*.pt
+*.bin
+*.onnx
+models_cache/
+
+# FAISS index files
+*.faiss
+*.index
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test / Coverage
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml

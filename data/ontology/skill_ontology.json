@@ -1,0 +1,301 @@
+{
+  "version": "1.0.0",
+  "description": "Skill ontology for resume-job matching. Each entry has a canonical name, aliases (synonyms/abbreviations), and a category.",
+  "skills": [
+    {
+      "canonical": "Python",
+      "aliases": ["python3", "py", "cpython", "python programming"],
+      "category": "Programming Language"
+    },
+    {
+      "canonical": "JavaScript",
+      "aliases": ["js", "ecmascript", "es6", "es2015", "vanilla js"],
+      "category": "Programming Language"
+    },
+    {
+      "canonical": "TypeScript",
+      "aliases": ["ts", "typescript programming"],
+      "category": "Programming Language"
+    },
+    {
+      "canonical": "Java",
+      "aliases": ["java programming", "jdk", "jvm language"],
+      "category": "Programming Language"
+    },
+    {
+      "canonical": "C++",
+      "aliases": ["cpp", "c plus plus", "cplusplus"],
+      "category": "Programming Language"
+    },
+    {
+      "canonical": "C#",
+      "aliases": ["csharp", "c sharp", "dotnet c#"],
+      "category": "Programming Language"
+    },
+    {
+      "canonical": "Go",
+      "aliases": ["golang", "go programming"],
+      "category": "Programming Language"
+    },
+    {
+      "canonical": "Rust",
+      "aliases": ["rust programming", "rustlang"],
+      "category": "Programming Language"
+    },
+    {
+      "canonical": "Ruby",
+      "aliases": ["ruby programming", "ruby lang"],
+      "category": "Programming Language"
+    },
+    {
+      "canonical": "SQL",
+      "aliases": ["structured query language", "sql querying"],
+      "category": "Query Language"
+    },
+    {
+      "canonical": "React",
+      "aliases": ["reactjs", "react.js", "react framework"],
+      "category": "Frontend Framework"
+    },
+    {
+      "canonical": "Angular",
+      "aliases": ["angularjs", "angular.js", "angular framework"],
+      "category": "Frontend Framework"
+    },
+    {
+      "canonical": "Vue",
+      "aliases": ["vuejs", "vue.js", "vue framework"],
+      "category": "Frontend Framework"
+    },
+    {
+      "canonical": "Node.js",
+      "aliases": ["nodejs", "node", "node js"],
+      "category": "Backend Runtime"
+    },
+    {
+      "canonical": "Django",
+      "aliases": ["django framework", "django python"],
+      "category": "Backend Framework"
+    },
+    {
+      "canonical": "Flask",
+      "aliases": ["flask framework", "flask python"],
+      "category": "Backend Framework"
+    },
+    {
+      "canonical": "FastAPI",
+      "aliases": ["fast api", "fastapi framework"],
+      "category": "Backend Framework"
+    },
+    {
+      "canonical": "Spring Boot",
+      "aliases": ["springboot", "spring framework", "spring"],
+      "category": "Backend Framework"
+    },
+    {
+      "canonical": "Express",
+      "aliases": ["expressjs", "express.js"],
+      "category": "Backend Framework"
+    },
+    {
+      "canonical": "AWS",
+      "aliases": ["amazon web services", "aws cloud"],
+      "category": "Cloud Platform"
+    },
+    {
+      "canonical": "Azure",
+      "aliases": ["microsoft azure", "azure cloud"],
+      "category": "Cloud Platform"
+    },
+    {
+      "canonical": "GCP",
+      "aliases": ["google cloud", "google cloud platform"],
+      "category": "Cloud Platform"
+    },
+    {
+      "canonical": "Docker",
+      "aliases": ["docker containers", "containerization", "docker engine"],
+      "category": "DevOps"
+    },
+    {
+      "canonical": "Kubernetes",
+      "aliases": ["k8s", "kube", "kubernetes orchestration"],
+      "category": "DevOps"
+    },
+    {
+      "canonical": "Terraform",
+      "aliases": ["terraform iac", "hashicorp terraform"],
+      "category": "DevOps"
+    },
+    {
+      "canonical": "CI/CD",
+      "aliases": ["continuous integration", "continuous deployment", "continuous delivery", "cicd"],
+      "category": "DevOps"
+    },
+    {
+      "canonical": "Git",
+      "aliases": ["git version control", "github", "gitlab", "bitbucket"],
+      "category": "Version Control"
+    },
+    {
+      "canonical": "PostgreSQL",
+      "aliases": ["postgres", "pg", "postgresql database"],
+      "category": "Database"
+    },
+    {
+      "canonical": "MySQL",
+      "aliases": ["mysql database", "mariadb"],
+      "category": "Database"
+    },
+    {
+      "canonical": "MongoDB",
+      "aliases": ["mongo", "mongodb database", "nosql mongodb"],
+      "category": "Database"
+    },
+    {
+      "canonical": "Redis",
+      "aliases": ["redis cache", "redis database"],
+      "category": "Database"
+    },
+    {
+      "canonical": "Elasticsearch",
+      "aliases": ["elastic", "es", "elasticsearch search"],
+      "category": "Database"
+    },
+    {
+      "canonical": "Kafka",
+      "aliases": ["apache kafka", "kafka streaming"],
+      "category": "Message Queue"
+    },
+    {
+      "canonical": "GraphQL",
+      "aliases": ["graphql api", "gql"],
+      "category": "API"
+    },
+    {
+      "canonical": "REST",
+      "aliases": ["rest api", "restful", "restful api"],
+      "category": "API"
+    },
+    {
+      "canonical": "Machine Learning",
+      "aliases": ["ml", "machine learning engineering", "ml engineering"],
+      "category": "AI/ML"
+    },
+    {
+      "canonical": "Deep Learning",
+      "aliases": ["dl", "deep neural networks", "neural networks"],
+      "category": "AI/ML"
+    },
+    {
+      "canonical": "NLP",
+      "aliases": ["natural language processing", "text analytics", "nlp engineering"],
+      "category": "AI/ML"
+    },
+    {
+      "canonical": "Computer Vision",
+      "aliases": ["cv", "image recognition", "object detection"],
+      "category": "AI/ML"
+    },
+    {
+      "canonical": "PyTorch",
+      "aliases": ["pytorch framework", "torch"],
+      "category": "ML Framework"
+    },
+    {
+      "canonical": "TensorFlow",
+      "aliases": ["tf", "tensorflow framework", "tensorflow 2"],
+      "category": "ML Framework"
+    },
+    {
+      "canonical": "scikit-learn",
+      "aliases": ["sklearn", "scikit learn", "sci-kit learn"],
+      "category": "ML Framework"
+    },
+    {
+      "canonical": "Pandas",
+      "aliases": ["pandas library", "python pandas"],
+      "category": "Data Science"
+    },
+    {
+      "canonical": "NumPy",
+      "aliases": ["numpy library", "python numpy"],
+      "category": "Data Science"
+    },
+    {
+      "canonical": "Apache Spark",
+      "aliases": ["spark", "pyspark", "spark sql"],
+      "category": "Big Data"
+    },
+    {
+      "canonical": "Airflow",
+      "aliases": ["apache airflow", "airflow dag"],
+      "category": "Data Engineering"
+    },
+    {
+      "canonical": "Snowflake",
+      "aliases": ["snowflake data warehouse", "snowflake db"],
+      "category": "Data Warehouse"
+    },
+    {
+      "canonical": "Neo4j",
+      "aliases": ["neo4j graph database", "neo4j db"],
+      "category": "Graph Database"
+    },
+    {
+      "canonical": "FAISS",
+      "aliases": ["facebook ai similarity search", "faiss library"],
+      "category": "Vector Search"
+    },
+    {
+      "canonical": "LLM",
+      "aliases": ["large language model", "large language models", "llms"],
+      "category": "AI/ML"
+    },
+    {
+      "canonical": "RAG",
+      "aliases": ["retrieval augmented generation", "rag pipeline"],
+      "category": "AI/ML"
+    },
+    {
+      "canonical": "Transformers",
+      "aliases": ["transformer models", "huggingface transformers", "attention models"],
+      "category": "AI/ML"
+    },
+    {
+      "canonical": "Agile",
+      "aliases": ["agile methodology", "agile development"],
+      "category": "Methodology"
+    },
+    {
+      "canonical": "Scrum",
+      "aliases": ["scrum methodology", "scrum master"],
+      "category": "Methodology"
+    },
+    {
+      "canonical": "Linux",
+      "aliases": ["linux administration", "ubuntu", "centos", "debian"],
+      "category": "Operating System"
+    },
+    {
+      "canonical": "Microservices",
+      "aliases": ["microservice architecture", "micro services"],
+      "category": "Architecture"
+    },
+    {
+      "canonical": "Data Engineering",
+      "aliases": ["data eng", "data pipeline engineering"],
+      "category": "Domain"
+    },
+    {
+      "canonical": "MLOps",
+      "aliases": ["ml ops", "machine learning operations", "mlops engineering"],
+      "category": "Domain"
+    },
+    {
+      "canonical": "DevOps",
+      "aliases": ["dev ops", "development operations"],
+      "category": "Domain"
+    }
+  ]
+}
