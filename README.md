@@ -156,7 +156,7 @@ pytest tests/ -v --cov=app --cov-report=html
 - **Model Pre-loading**: In production mode (`DEBUG=false`), models pre-load at startup
 - **Async Endpoints**: All API endpoints are async for I/O concurrency
 
-## Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |-----------|-----------|
