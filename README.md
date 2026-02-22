@@ -81,7 +81,7 @@ Weights are configurable via environment variables.
 | `GET`  | `/api/v1/health` | Health check with model status |
 
 ## Quick Start
-
+ 
 ### Local Development
 
 ```bash
