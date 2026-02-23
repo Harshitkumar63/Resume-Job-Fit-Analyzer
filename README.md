@@ -43,7 +43,7 @@ app/
 │   └── faiss_store.py      # FAISS HNSW index wrapper
 └── main.py                 # FastAPI app factory + lifespan
 ```
-
+  
 ## Key Design Decisions
 
 ### 1. Hybrid Skill Extraction (NER + Rule-Based)
